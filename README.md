@@ -1,5 +1,5 @@
 # ZytrusSpammer
-![lmao](https://media.discordapp.net/attachments/759483011330342954/991583984297443358/a81Kjep_460s_1.jpg)
+![lmao](https://media.discordapp.net/attachments/759483011330342954/991584981921038376/a81Kjep_700bwp_1_1.jpg)
 
 *My first ever* ***python*** *project*
 
