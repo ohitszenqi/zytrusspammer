@@ -15,7 +15,7 @@
 
 <ul>
   <li>Download the file at</li>
-  <li>Virustotal: [Here](https://www.virustotal.com/gui/file/83f6884737e8bdf0c1461029bd6980caf027a451cbf4397b39ae1949d8653381?nocache=1)</li>
+  <li>Virustotal: <a href=https://www.virustotal.com/gui/file/83f6884737e8bdf0c1461029bd6980caf027a451cbf4397b39ae1949d8653381?nocache=1>Here</a></li>
 </ul>
 
 everything made by **Zenqi**
